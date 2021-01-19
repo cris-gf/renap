@@ -1,0 +1,34 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">RENAP</string>
+    <!-- Login View -->
+    <string name="login_email">Email</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_logo_content_description">Logo de Aplicación</string>
+    <string name="login_email_not_found">La dirección de correo que ingresó no está registrada.</string>
+    <string name="login_password_not_found">La contraseña no es correcta.</string>
+    <string name="login_sign_in">Iniciar Sesión</string>
+    <string name="login_invalid_email">La dirección de correo no es válida</string>
+    <string name="login_invalid_password">La contraseña debe contener 8 caracteres</string>
+    <string name="login_incorrect_data">Por favor verifique que los datos sean correctos.</string>
+    <string name="login_unexpected_error">Ha ocurrido un error inesperado, por favor vuelva a intentar.</string>
+    <!-- Logout Dialog -->
+    <string name="logout_dialog_title">¿Cerrar Sesión?</string>
+    <string name="logout_dialog_message">La sesión actual será cerrada y será redirigido a la página de inicio de sesión.</string>
+    <string name="logout_dialog_positive">Cerrar Sesión</string>
+    <string name="logout_dialog_negative">Cancelar</string>
+    <!-- Options Menu -->
+    <string name="options_menu_log_out">Cerrar Sesión</string>
+    <!-- Main View -->
+    <string name="main_title">Estado de Solicitud</string>
+    <string name="main_cui">CUI</string>
+    <string name="main_name">Nombres</string>
+    <string name="main_last_name">Apellidos</string>
+    <string name="main_address">Dirección</string>
+    <string name="main_department">Departamento</string>
+    <string name="main_township">Municipio</string>
+    <string name="main_status">Estado</string>
+    <!-- Progress Bar -->
+    <string name="progress_bar">Cargando</string>
+
+</resources>

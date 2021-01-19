@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login View -->
+    <dimen name="login_space_vertical">24dp</dimen>
+    <dimen name="login_space_horizontal">32dp</dimen>
+    <dimen name="login_edit_text_padding">10dp</dimen>
+    <dimen name="login_edit_text_height">50dp</dimen>
+    <dimen name="login_button_xl_height">60dp</dimen>
+    <dimen name="login_text_size">16sp</dimen>
+    <dimen name="login_logo_size">300dp</dimen>
+    <dimen name="login_button_radius">4dp</dimen>
+    <!-- Main View -->
+    <dimen name="main_space_horizontal">32dp</dimen>
+    <dimen name="main_space_vertical">8dp</dimen>
+    <dimen name="main_card_elevation">10dp</dimen>
+    <dimen name="main_card_padding">16dp</dimen>
+    <dimen name="main_text_size">16sp</dimen>
+    <dimen name="main_text_size_xl">24sp</dimen>
+    <!-- Progress Bar -->
+    <dimen name="progress_bar_padding">20dp</dimen>
+    <dimen name="progress_bar_margin">10dp</dimen>
+    <dimen name="progress_bar_radius">3dp</dimen>
+    <dimen name="progress_bar_text_size">18sp</dimen>
+
+</resources>
